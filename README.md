@@ -87,12 +87,8 @@ https://github.com/ximnoise/meet
 
 https://github.com/sweetalert2/sweetalert2
 
-https://pool.raskul.com/
-
 https://github.com/glengineering/Eventjs
 
 https://github.com/ziadevcom/zCalendar
-
-https://play.google.com/store/apps/details?id=com.ichi2.anki
 
 https://github.com/tomsoderlund/nextjs-pwa-firebase-boilerplate
