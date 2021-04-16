@@ -1,4 +1,4 @@
-# canabica
+# Canabica.org CO
 suportando o cultivo e o cuidado
 
 https://github.com/kitze/custom-react-scripts
