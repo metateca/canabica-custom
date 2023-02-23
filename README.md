@@ -1,5 +1,5 @@
-# Canabica.org CO
-suportando o cultivo e o cuidado
+# Canabica.org
+Suportando o cultivo e o cuidado
 
 https://github.com/kitze/custom-react-scripts
 https://github.com/instamobile/react-native-starter-kit
